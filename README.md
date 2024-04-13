@@ -3,7 +3,7 @@
 ### App Description
 `TODO://` Users can add new flashcards with questions and answers, edit existing ones, and review them by flipping through the cards. The app provides a smooth transition animation when moving between screens, a reveal animation to show the answer when a flashcard is tapped, and flashcards animate in and out when navigating through them. Optional features include extra styling for enhanced visual appeal, a countdown timer for each question, a card flip animation for interactive feedback, and a celebration animation with confetti when a question is answered correctly.
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/JonaNathan7/FlashCard3/blob/main/Enregistrement%20d’écran%2C%20le%202024-04-13%20à%2017.55.27.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
